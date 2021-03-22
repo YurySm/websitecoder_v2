@@ -10,7 +10,7 @@
     left: 50px;
     &__link {  
         transform: rotate(-90deg);
-        &:nth-child(3) {
+        &:nth-child(2) {
             transform: rotate(0deg);
         }  
         &:hover {
@@ -29,7 +29,7 @@
         height: 150px;
         span {
             display: block;
-            transform: rotate(-90deg) translate(-30%, -270%);
+            transform: rotate(-90deg) translate(-30%, -260%);
             width: 150px; 
         }
     }

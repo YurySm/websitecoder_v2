@@ -73,7 +73,7 @@ gulp.task('mailer', function () {
         .pipe(browserSync.stream());
 });
 gulp.task('source', function () {
-    return gulp.src("src/source/**/*")
+    return gulp.src("src/source/**/**/*")
         .pipe(gulp.dest("dist/source"))
         .pipe(browserSync.stream());
 });
