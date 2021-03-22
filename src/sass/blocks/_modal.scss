@@ -1,0 +1,32 @@
+.overlay__modal {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(255, 255, 255, .75);
+    z-index: 1000;
+    display: none;
+}
+
+
+.modal {
+    max-width: 620px;
+    min-width: 330px;
+    position: absolute;
+    top: 0;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: $main-color;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    &__title {
+        text-align: center;
+        line-height: unset;
+    }
+    &__subtitle {
+        text-align: center;
+        margin-top: 20px;
+    }
+}

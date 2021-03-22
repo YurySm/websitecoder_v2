@@ -1,0 +1,100 @@
+.resume {
+    padding-top: 120px;
+    &__wrapper {
+        padding: 60px 65px 0 65px;
+        display: grid;
+        grid-template-columns: repeat( 2, 425px );
+        column-gap: 135px;
+    }
+    &__column {
+        &-title {
+            padding-left: 35px;
+            position: relative;
+            &:before {
+                content: '';
+                position: absolute;
+                display: block;
+                width: 15px;
+                height: 15px;
+                border-radius: 100%;
+                background-color: $main_color;
+                left: -7px;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+        }
+        ul {
+            list-style-type: none;
+            li {
+                position: relative;
+                &:after {
+                    content: '';
+                    width: 1px;
+                    height: calc(100% + 16px);
+                    position: absolute;
+                    top: -16px;
+                    left: 0;
+                    background-color: #000;
+                }
+            }
+        }
+        .udemy {
+            margin-top: 14px;
+        }
+        ul.udemy > li {
+            margin-bottom: 6px;
+            &:after {
+                content: '';
+                width: 4px;
+                height: 4px;
+                position: absolute;
+                top: 5px;
+                left: -10px;
+                background-color: $main_color;
+                border-radius: 100%;
+            }
+        }
+    }
+    &__item {
+        position: relative;
+        &:before {
+            content: '';
+            width: 45px;
+            height: 1px;
+            background-color: #000;
+            position: absolute;
+            top: 67px;
+        }
+        &-head {
+            position: relative;
+            padding: 45px 0 0 100px;
+            H4 {
+                margin-bottom: 0;
+            }
+        }
+        &-body {
+            padding: 0 0 0 43px;
+            margin-top: 12px;
+        }
+        &-icon {
+            position: absolute;
+            top: 48px;
+            left: 45px;
+            @include before_circle;
+            img {
+                position: absolute;
+                left: 17px;
+                top: 14px;
+            }
+        }
+        &-location {
+            font-size: 12px;
+            line-height: 18px;  
+            margin-top: 5px;
+        }
+        &-body {
+            font-size: 12px;
+            line-height: 18px;
+        }
+    }
+}
