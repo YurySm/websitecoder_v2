@@ -1,45 +1,3 @@
-// const hamburger     = document.querySelector('.hamburger'),
-//       menu          = document.querySelector('.menu'),
-//       closeElem     = document.querySelector('.menu__close'),
-//       modal         = document.querySelector('.modal');
-
-
-
-
-
-// hamburger.addEventListener('click', () => {
-//     menu.classList.add('active');
-// } );
-
-// closeElem.addEventListener('click', () => {   
-//     menu.classList.remove('active');    
-// } );
-
-
-// const persents = document.querySelectorAll('.skills__lines-persent'),
-//       lines    = document.querySelectorAll('.main_color');
-
-// persents.forEach((item, i) => {
-// lines[i].style.width = item.innerHTML;
-// });
-
-// $(document).ready(function(){
-//     $('.contacts__form').submit(function(e) {
-//         e.preventDefault();
-//         $.ajax({
-//             type: "POST",
-//             url: "mailer/smart.php",
-//             data: $('.contacts__form').serialize()
-//         }).done(function() {
-//             $('.contacts__form').find("input").val("");
-//             $('.overlay__modal').fadeIn('slow').delay(2000).fadeOut(1000);
-//             $('.contacts__form').trigger('reset');
-//         });
-//         return false;
-//      });
-// });
-
-
 document.addEventListener('DOMContentLoaded', () => {
     const hamburger     = document.querySelector('.hamburger'),
       menu          = document.querySelector('.menu'),
@@ -47,8 +5,6 @@ document.addEventListener('DOMContentLoaded', () => {
       overlay      = document.querySelector('.menu__overlay'),
       listItems    = document.querySelectorAll('.menu__link'),
       scroll = calcScroll();
-    //   modal         = document.querySelector('.modal');
-
 
     hamburger.addEventListener('click', () => {
         menu.classList.add('active');
@@ -108,6 +64,24 @@ document.addEventListener('DOMContentLoaded', () => {
     persents.forEach((item, i) => {
     lines[i].style.width = item.innerHTML;
     });
+
+
+    //   scroll
+
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 1600) {
+            $('.pageup').fadeIn();
+        } else {
+            $('.pageup').fadeOut();
+        }
+    });
+    // плавность перехода
+    $("a[href='#promo']").click(function(){
+        const _href = $(this).attr("href");
+        $("html, body").animate({scrollTop: $(_href).offset().top+"px"});
+        return false;
+    });
+    
 
 
 
