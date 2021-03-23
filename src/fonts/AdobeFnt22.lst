@@ -1,0 +1,937 @@
+%!Adobe-FontList 1.22
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Black.eot
+FileModTime:1573945912
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Black
+FamilyName:TT Hoves
+StyleName:Black
+FullName:TTHoves-Black
+MenuName:TT Hoves Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Black.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:175440
+FileModTime:1573945912
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Black
+NameArray:0,Mac,4,TTHoves-Black
+NameArray:0,Win,1,TT Hoves Black
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Black.woff
+FileModTime:1573945912
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Black.woff2
+FileModTime:1573945913
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BlackItalic.eot
+FileModTime:1573945918
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-BlackItalic
+FamilyName:TT Hoves
+StyleName:Black Italic
+FullName:TTHoves-BlackItalic
+MenuName:TT Hoves Black
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BlackItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:186996
+FileModTime:1573945918
+WeightClass:900
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Black Italic
+NameArray:0,Mac,4,TTHoves-BlackItalic
+NameArray:0,Win,1,TT Hoves Black
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BlackItalic.woff
+FileModTime:1573945918
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BlackItalic.woff2
+FileModTime:1573945919
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Bold.eot
+FileModTime:1573945915
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Bold
+FamilyName:TT Hoves
+StyleName:Bold
+FullName:TTHoves-Bold
+MenuName:TT Hoves
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178780
+FileModTime:1573945915
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Bold
+NameArray:0,Mac,4,TTHoves-Bold
+NameArray:0,Win,1,TT Hoves
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Bold.woff
+FileModTime:1573945915
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Bold.woff2
+FileModTime:1573945915
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BoldItalic.eot
+FileModTime:1573945911
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-BoldItalic
+FamilyName:TT Hoves
+StyleName:Bold Italic
+FullName:TTHoves-BoldItalic
+MenuName:TT Hoves
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190120
+FileModTime:1573945911
+WeightClass:700
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Bold Italic
+NameArray:0,Mac,4,TTHoves-BoldItalic
+NameArray:0,Win,1,TT Hoves
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BoldItalic.woff
+FileModTime:1573945911
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-BoldItalic.woff2
+FileModTime:1573945912
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBold.eot
+FileModTime:1573945910
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-DemiBold
+FamilyName:TT Hoves
+StyleName:DemiBold
+FullName:TTHoves-DemiBold
+MenuName:TT Hoves DemiBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178876
+FileModTime:1573945910
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves DemiBold
+NameArray:0,Mac,4,TTHoves-DemiBold
+NameArray:0,Win,1,TT Hoves DemiBold
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBold.woff
+FileModTime:1573945910
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBold.woff2
+FileModTime:1573945911
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBoldItalic.eot
+FileModTime:1573945921
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-DemiBoldItalic
+FamilyName:TT Hoves
+StyleName:DemiBold Italic
+FullName:TTHoves-DemiBoldItalic
+MenuName:TT Hoves DemiBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:189356
+FileModTime:1573945921
+WeightClass:600
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves DemiBold Italic
+NameArray:0,Mac,4,TTHoves-DemiBoldItalic
+NameArray:0,Win,1,TT Hoves DemiBold
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBoldItalic.woff
+FileModTime:1573945921
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-DemiBoldItalic.woff2
+FileModTime:1573945922
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBold.eot
+FileModTime:1573945919
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-ExtraBold
+FamilyName:TT Hoves
+StyleName:ExtraBold
+FullName:TTHoves-ExtraBold
+MenuName:TT Hoves ExtraBold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178144
+FileModTime:1573945919
+WeightClass:800
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves ExtraBold
+NameArray:0,Mac,4,TTHoves-ExtraBold
+NameArray:0,Win,1,TT Hoves ExtraBold
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBold.woff
+FileModTime:1573945919
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBold.woff2
+FileModTime:1573945920
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBoldItalic.eot
+FileModTime:1573945923
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-ExtraBoldItalic
+FamilyName:TT Hoves
+StyleName:ExtraBold Italic
+FullName:TTHoves-ExtraBoldItalic
+MenuName:TT Hoves ExtraBold
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190352
+FileModTime:1573945923
+WeightClass:800
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves ExtraBold Italic
+NameArray:0,Mac,4,TTHoves-ExtraBoldItalic
+NameArray:0,Win,1,TT Hoves ExtraBold
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBoldItalic.woff
+FileModTime:1573945923
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraBoldItalic.woff2
+FileModTime:1573945924
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLight.eot
+FileModTime:1573945914
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-ExtraLight
+FamilyName:TT Hoves
+StyleName:ExtraLight
+FullName:TTHoves-ExtraLight
+MenuName:TT Hoves ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLight.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:181920
+FileModTime:1573945914
+WeightClass:275
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves ExtraLight
+NameArray:0,Mac,4,TTHoves-ExtraLight
+NameArray:0,Win,1,TT Hoves ExtraLight
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLight.woff
+FileModTime:1573945914
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLight.woff2
+FileModTime:1573945914
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLightItalic.eot
+FileModTime:1573945908
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-ExtraLightItalic
+FamilyName:TT Hoves
+StyleName:ExtraLight Italic
+FullName:TTHoves-ExtraLightItalic
+MenuName:TT Hoves ExtraLight
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:193308
+FileModTime:1573945908
+WeightClass:275
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves ExtraLight Italic
+NameArray:0,Mac,4,TTHoves-ExtraLightItalic
+NameArray:0,Win,1,TT Hoves ExtraLight
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLightItalic.woff
+FileModTime:1573945908
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ExtraLightItalic.woff2
+FileModTime:1573945908
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Hairline.eot
+FileModTime:1573945926
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Hairline
+FamilyName:TT Hoves
+StyleName:Hairline
+FullName:TTHoves-Hairline
+MenuName:TT Hoves Hairline
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Hairline.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178036
+FileModTime:1573945926
+WeightClass:201
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Hairline
+NameArray:0,Mac,4,TTHoves-Hairline
+NameArray:0,Win,1,TT Hoves Hairline
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Hairline.woff
+FileModTime:1573945926
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Hairline.woff2
+FileModTime:1573945927
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-HairlineItalic.eot
+FileModTime:1573945906
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-HairlineItalic
+FamilyName:TT Hoves
+StyleName:Hairline Italic
+FullName:TTHoves-HairlineItalic
+MenuName:TT Hoves Hairline
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-HairlineItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:191012
+FileModTime:1573945906
+WeightClass:201
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Hairline Italic
+NameArray:0,Mac,4,TTHoves-HairlineItalic
+NameArray:0,Win,1,TT Hoves Hairline
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-HairlineItalic.woff
+FileModTime:1573945906
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-HairlineItalic.woff2
+FileModTime:1573945907
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Italic.eot
+FileModTime:1573945917
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Italic
+FamilyName:TT Hoves
+StyleName:Italic
+FullName:TTHoves-Italic
+MenuName:TT Hoves
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Italic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190296
+FileModTime:1573945917
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Italic
+NameArray:0,Mac,4,TTHoves-Italic
+NameArray:0,Win,1,TT Hoves
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Italic.woff
+FileModTime:1573945917
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Italic.woff2
+FileModTime:1573945918
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Light.eot
+FileModTime:1573945929
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Light
+FamilyName:TT Hoves
+StyleName:Light
+FullName:TTHoves-Light
+MenuName:TT Hoves Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:179608
+FileModTime:1573945929
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Light
+NameArray:0,Mac,4,TTHoves-Light
+NameArray:0,Win,1,TT Hoves Light
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Light.woff
+FileModTime:1573945929
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Light.woff2
+FileModTime:1573945930
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-LightItalic.eot
+FileModTime:1573945928
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-LightItalic
+FamilyName:TT Hoves
+StyleName:Light Italic
+FullName:TTHoves-LightItalic
+MenuName:TT Hoves Light
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-LightItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:190912
+FileModTime:1573945927
+WeightClass:300
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Light Italic
+NameArray:0,Mac,4,TTHoves-LightItalic
+NameArray:0,Win,1,TT Hoves Light
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-LightItalic.woff
+FileModTime:1573945928
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-LightItalic.woff2
+FileModTime:1573945929
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Medium.eot
+FileModTime:1573945930
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Medium
+FamilyName:TT Hoves
+StyleName:Medium
+FullName:TTHoves-Medium
+MenuName:TT Hoves Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178336
+FileModTime:1573945930
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Medium
+NameArray:0,Mac,4,TTHoves-Medium
+NameArray:0,Win,1,TT Hoves Medium
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Medium.woff
+FileModTime:1573945930
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Medium.woff2
+FileModTime:1573945931
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-MediumItalic.eot
+FileModTime:1573945922
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-MediumItalic
+FamilyName:TT Hoves
+StyleName:Medium Italic
+FullName:TTHoves-MediumItalic
+MenuName:TT Hoves Medium
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-MediumItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:189540
+FileModTime:1573945922
+WeightClass:500
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Medium Italic
+NameArray:0,Mac,4,TTHoves-MediumItalic
+NameArray:0,Win,1,TT Hoves Medium
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-MediumItalic.woff
+FileModTime:1573945922
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-MediumItalic.woff2
+FileModTime:1573945923
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Regular.eot
+FileModTime:1573945925
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Regular
+FamilyName:TT Hoves
+StyleName:Regular
+FullName:TTHoves-Regular
+MenuName:TT Hoves
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:178504
+FileModTime:1573945925
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Regular
+NameArray:0,Mac,4,TTHoves-Regular
+NameArray:0,Win,1,TT Hoves
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Regular.woff
+FileModTime:1573945925
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Regular.woff2
+FileModTime:1573945926
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Thin.eot
+FileModTime:1573945909
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-Thin
+FamilyName:TT Hoves
+StyleName:Thin
+FullName:TTHoves-Thin
+MenuName:TT Hoves Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Thin.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:180472
+FileModTime:1573945909
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,TT Hoves Thin
+NameArray:0,Mac,4,TTHoves-Thin
+NameArray:0,Win,1,TT Hoves Thin
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Thin.woff
+FileModTime:1573945909
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-Thin.woff2
+FileModTime:1573945910
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ThinItalic.eot
+FileModTime:1573945916
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TTHoves-ThinItalic
+FamilyName:TT Hoves
+StyleName:Thin Italic
+FullName:TTHoves-ThinItalic
+MenuName:TT Hoves Thin
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ThinItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:194608
+FileModTime:1573945916
+WeightClass:250
+WidthClass:5
+AngleClass:1
+NameArray:0,Mac,18,TT Hoves Thin Italic
+NameArray:0,Mac,4,TTHoves-ThinItalic
+NameArray:0,Win,1,TT Hoves Thin
+NameArray:0,Win,16,TT Hoves
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ThinItalic.woff
+FileModTime:1573945916
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\TTHoves-ThinItalic.woff2
+FileModTime:1573945917
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\demo.html
+FileModTime:1573945931
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:C:\Users\Даша\Desktop\tilda\test\Font\stylesheet.css
+FileModTime:1573945931
+%EndFont
+

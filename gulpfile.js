@@ -77,5 +77,4 @@ gulp.task('source', function () {
         .pipe(gulp.dest("dist/source"))
         .pipe(browserSync.stream());
 });
-
 gulp.task('default', gulp.parallel('watch', 'server', 'styles', 'scripts', 'fonts', 'icons', 'html', 'images', 'mailer', 'source'));
