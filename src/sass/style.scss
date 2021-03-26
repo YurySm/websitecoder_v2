@@ -20,6 +20,13 @@
     margin: 25px auto 0 auto;
 }
 
+.show{display: flex;}
+.hide{display: none !important;}
+.fade{animation-name: fade;animation-duration: 1.5s;}
+.fadeOut{animation-name: fadeOut;animation-duration: 1.5s;}
+@keyframes fade{from{opacity: 0.1;}to{opacity: 1;}}
+@keyframes fadeOut{from{opacity: 1;}to{opacity: 0.1;}}
+
 @import 'blocks/promo';
 @import 'blocks/title';
 @import 'blocks/btns';

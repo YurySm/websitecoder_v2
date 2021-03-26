@@ -57,6 +57,36 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
 
+    const portfolioBtn = document.querySelector('.portfolio__btn'),
+            triggerItems = document.querySelectorAll('.trigger');
+
+        triggerItems.forEach(item => {
+            item.classList.add('hide');
+        });
+
+        portfolioBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            if (portfolioBtn.classList[2] == 'asd') {
+                triggerItems.forEach(item => {
+                    item.classList.remove('fade');
+                    item.classList.add('fadeOut');                    
+                    setTimeout(() => {
+                        item.classList.add('hide');
+                    },1000);
+                });
+                portfolioBtn.innerHTML = 'Еще работы';
+                portfolioBtn.classList.remove('asd');
+            } else {
+                triggerItems.forEach(item => {
+                    item.classList.add('fade');
+                    item.classList.remove('hide');
+                    item.classList.remove('fadeOut');
+                });
+                portfolioBtn.innerHTML = 'Свернуть';
+                portfolioBtn.classList.add('asd');
+            }
+        });
+
     // skills 
     const persents = document.querySelectorAll('.skills__lines-persent'),
           lines    = document.querySelectorAll('.main_color');
