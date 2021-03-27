@@ -6,6 +6,16 @@ document.addEventListener('DOMContentLoaded', () => {
       listItems    = document.querySelectorAll('.menu__link'),
       scroll = calcScroll();
 
+
+    hamburger.addEventListener('click', () => {
+        menu.classList.add('active');
+        document.body.style.overflow = "hidden";
+        if (document.documentElement.clientWidth > 900) { 
+            document.body.style.marginRight = `${scroll}px`;
+        }
+    });
+    console.log(document.documentElement.clientWidth);
+    
     hamburger.addEventListener('click', () => {
         menu.classList.add('active');
         document.body.style.overflow = "hidden";

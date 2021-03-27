@@ -52,6 +52,10 @@
                 grid-column: unset;
             }
         }
+        &__elem_img {
+            width: 245px;
+            height: 160px;
+        }
     }
     .contacts {
         &__wrapper {
@@ -131,7 +135,13 @@
             margin-top: 30px;
             align-items: center;
         }
-
+    }
+    .portfolio {
+        &__elem_img {
+            width: 245px;
+            height: 140px;
+            margin-right: 10px;
+        }
     }
 }
 @media (max-width: 768px) {
@@ -291,6 +301,20 @@
             }
         }
     }
+    .portfolio {
+        &__items {
+            margin: 0 auto;
+            margin-top: 30px;
+        }
+        &__elem {
+            flex-direction: column;
+            margin-bottom: 30px;
+            align-items: center;
+        }
+        &__btn {
+            width: 260px;
+        }
+    }
     .contacts {
         padding-top: 40px;
         padding-bottom: 70px;
@@ -315,6 +339,5 @@
             justify-content: center;
             align-items: center;
         }
-
     }
 }

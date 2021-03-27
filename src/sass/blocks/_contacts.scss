@@ -30,9 +30,14 @@
     }
     &__link {
         margin-right: 25px;
+        &:last-child{
+            img {
+                transform: rotate(90deg);
+            }
+        }
         img {
-            max-width: 30px;
-            max-height: 30px;
+            width: 30px;
+            height: 30px;
         }
     }
     &__form {
